@@ -1,0 +1,18 @@
+......Installation.....
+Install Material-UI, the world's most popular React UI framework.
+
+Material-UI is available as an npm package.
+
+npm
+To install and save in your package.json dependencies, run:
+
+// with npm
+npm install @material-ui/core
+
+// with yarn
+yarn add @material-ui/core
+
+......SVG Icons.......
+In order to use prebuilt SVG Material icons, such as those found in the component demos you must first install the @material-ui/icons package:
+
+npm install @material-ui/icons
