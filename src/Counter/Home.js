@@ -7,13 +7,14 @@ import React, { Component } from 'react';
 //import Appbar6 from '../Components/Appbar/desktop only/Appbar6';
 //import Appbar7 from '../Components/Appbar/Bottom App Bar/Appbar7';
 //import Av1 from '../Components/Avatar/Image avatars/Av1';
-import Av2 from '../Components/Avatar/Letter avatars/Av2';
-import Av3 from '../Components/Avatar/Icon avatars/Av3';
+//import Av2 from '../Components/Avatar/Letter avatars/Av2';
+//import Av3 from '../Components/Avatar/Icon avatars/Av3';
+import Aut1 from '../Components/Autocomplete/Downshift/Aut1';
 class Home extends Component {
   render() {
     return (
       <div>
-        <Av3 />
+        <Aut1 />
       </div>
     );
   }
