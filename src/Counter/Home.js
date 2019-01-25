@@ -10,12 +10,13 @@ import React, { Component } from 'react';
 //import Av2 from '../Components/Avatar/Letter avatars/Av2';
 //import Av3 from '../Components/Avatar/Icon avatars/Av3';
 //import Aut1 from '../Components/Autocomplete/Downshift/Aut1';
-import Aut2 from '../Components/Autocomplete/react-select/Aut2';
+//import Aut2 from '../Components/Autocomplete/react-select/Aut2';
+import Aut3 from '../Components/Autocomplete/react-autosuggest/Aut3';
 class Home extends Component {
   render() {
     return (
       <div>
-        <Aut2 />
+        <Aut3 />
       </div>
     );
   }
