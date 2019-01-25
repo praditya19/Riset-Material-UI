@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import {Route, Switch} from 'react-router-dom'
+
 //import Appbar1 from '../Components/Appbar/App bar with button/Appbar1';
 //import Appbar2 from '../Components/Appbar/Simple App Bar/Appbar2';
 //import Appbar3 from '../Components/Appbar/App bar with Primary/Appbar3';
@@ -16,12 +18,13 @@ import React, { Component } from 'react';
 //import Sim2 from '../Components/Badges/Max Value/Sim2';
 //import Sim3 from '../Components/Badges/Dot Badge/Sim3';
 //import Sim4 from '../Components/Badges/Badge visibility/Sim4';
-import Sim5 from '../Components/Badges/Customized Badge/Sim5';
+//import Sim5 from '../Components/Badges/Customized Badge/Sim5';
+import Bot1 from '../Components/Buttom Navigation/Buttom Navigation/';
 class Home extends Component {
   render() {
     return (
       <div>
-        <Sim5 />
+        <Bot1 />
       </div>
     );
   }
