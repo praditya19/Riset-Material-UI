@@ -15,12 +15,13 @@ import React, { Component } from 'react';
 //import Sim1 from '../Components/Badges/Simple Badges/Sim1';
 //import Sim2 from '../Components/Badges/Max Value/Sim2';
 //import Sim3 from '../Components/Badges/Dot Badge/Sim3';
-import Sim4 from '../Components/Badges/Badge visibility/Sim4';
+//import Sim4 from '../Components/Badges/Badge visibility/Sim4';
+import Sim5 from '../Components/Badges/Customized Badge/Sim5';
 class Home extends Component {
   render() {
     return (
       <div>
-        <Sim4 />
+        <Sim5 />
       </div>
     );
   }
