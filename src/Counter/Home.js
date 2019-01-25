@@ -12,12 +12,13 @@ import React, { Component } from 'react';
 //import Aut1 from '../Components/Autocomplete/Downshift/Aut1';
 //import Aut2 from '../Components/Autocomplete/react-select/Aut2';
 //import Aut3 from '../Components/Autocomplete/react-autosuggest/Aut3';
-import Sim1 from '../Components/Badges/Simple Badges/Sim1';
+//import Sim1 from '../Components/Badges/Simple Badges/Sim1';
+import Sim2 from '../Components/Badges/Max Value/Sim2';
 class Home extends Component {
   render() {
     return (
       <div>
-        <Sim1 />
+        <Sim2 />
       </div>
     );
   }
