@@ -18,12 +18,13 @@
 //import Sim5 from '../Components/Badges/Customized Badge/Sim5';
 //import Bot1 from '../Components/Buttom Navigation/Buttom Navigation/';
 //import Bot2 from '../Components/Buttom Navigation/Bottom Navigation with no label/Bot2';
-import Button1 from '../Components/Buttons/Contained Buttons/Button1';
+//import Button1 from '../Components/Buttons/Contained Buttons/Button1';
+import Button2 from '../Components/Buttons/Text Buttons/Button2';
 class Home extends Component {
   render() {
     return (
       <div>
-        <Button1 />
+        <Button2 />
       </div>
     );
   }
