@@ -20,12 +20,13 @@
 //import Bot2 from '../Components/Buttom Navigation/Bottom Navigation with no label/Bot2';
 //import Button1 from '../Components/Buttons/Contained Buttons/Button1';
 //import Button2 from '../Components/Buttons/Text Buttons/Button2';
-import Button3 from '../Components/Buttons/Outlined Buttons/Button3';
+//import Button3 from '../Components/Buttons/Outlined Buttons/Button3';
+import Button4 from '../Components/Buttons/Floating Action Buttons/Button4';
 class Home extends Component {
   render() {
     return (
       <div>
-        <Button3 />
+        <Button4 />
       </div>
     );
   }
